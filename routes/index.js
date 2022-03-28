@@ -7,6 +7,4 @@ router.get("/", (req,res)=>{
     res.send("core default page")
 })
 
-
-
 module.exports = router
